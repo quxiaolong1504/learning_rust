@@ -1,0 +1,1 @@
+{"rustc":14806581616236711035,"target":5338376423474006700,"profile":11625325535095225723,"local":{"variant":"Precalculated","fields":["0.4.4"]},"features":"None","deps":[["hpack v0.2.0 (registry git://mirrors.ustc.edu.cn/crates.io-index)",16130158504225954028],["log v0.3.7 (registry git://mirrors.ustc.edu.cn/crates.io-index)",5591570053917687562]],"rustflags":[]}
